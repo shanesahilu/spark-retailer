@@ -1,0 +1,43 @@
+export const products = [
+    {
+      productId: "NTG-P1-BLK-128",
+      name: "Nothing Phone (1) 128GB",
+      description: "The Nothing Phone (1) is a smartphone that dares to be different.",
+      price: 29999,
+      category: "smartphones",
+      brand: "Nothing",
+      stock: 50,
+      supplierId: "SUP001",
+    },
+    {
+      productId: "SHOE001",
+      name: "Nike Air Max 270",
+      description: "Men's casual sneakers with Max Air cushioning for all-day comfort.",
+      price: 15000,
+      category: "shoes",
+      brand: "Nike",
+      stock: 5,
+      supplierId: "SUP002",
+    },
+    {
+      productId: "HEALTH001",
+      name: "Digital Blood Pressure Monitor",
+      description: "Upper arm blood pressure monitor with large LCD display.",
+      price: 5500,
+      category: "healthcare",
+      brand: "Omron",
+      stock: 150,
+      supplierId: "SUP003",
+    },
+    {
+      productId: "SAM-S24U-TIB-256",
+      name: "Samsung Galaxy S24 Ultra 256GB",
+      description: "The Samsung Galaxy S24 Ultra is the pinnacle of smartphone innovation.",
+      price: 129999,
+      category: "smartphones",
+      brand: "Samsung",
+      stock: 8,
+      supplierId: "SUP001",
+    },
+  ];
+  
